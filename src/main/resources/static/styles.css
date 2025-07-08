@@ -48,6 +48,19 @@ button:hover, .btn:hover {
   background-color: #D3B6AE;
 }
 
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.large-button {
+  width: 250px;
+  height: 500px;
+  font-size: 30px;
+  margin: 0 10px;
+}
+
+
 /* 표 */
 table {
   width: 100%;
